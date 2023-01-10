@@ -1,0 +1,6 @@
+com\bestbuy\cucumber\CucumberRunner.class
+com\bestbuy\testsuite\StoresCRUDTestWithSteps.class
+com\bestbuy\cucumber\steps\MyStepdefs.class
+com\bestbuy\testsuite\StoresTagTest.class
+com\bestbuy\testbase\TestBase.class
+com\bestbuy\testsuite\storesDataDrivenTest.class
